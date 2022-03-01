@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Products</string>
+    <string name="creator">KOLINKO</string>
+    <string name="hint0">0</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="fanta">Fanta</string>
+    <string name="coffee">Coffee</string>
+    <string name="milk">Milk</string>
+    <string name="vanillasugar">Vanilla sugar</string>
+    <string name="cinnamon">Cinnamon</string>
+    <string name="tea">Tea</string>
+    <string name="cheese">Cheese</string>
+    <string name="egg">Egg</string>
+    <string name="bread">Bread</string>
+    <string name="total">Total</string>
+    <string name="clear">Clear</string>
+    <string name="showin">Show in:</string>
+    <string name="field">Field</string>
+    <string name="toast">Toast</string>
+    <string name="dialog">Dialog</string>
+</resources>
