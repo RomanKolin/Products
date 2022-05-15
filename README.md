@@ -1,6 +1,5 @@
 # Products
-This is a game 
-in which user can choose products and buy them. 
+This is a game in which user can choose products and buy them. 
 There are nine products.
 
 The user can get the result in a field, pop-up or dialog windows.
